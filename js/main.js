@@ -42,7 +42,7 @@ $(function(){
     //if equals anything else show error picture
 
     //this clears the field (value of nothing to the city field)
-    $("#city-type").val("")
+    $("#city-type").val("");
   }; 
 
   
